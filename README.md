@@ -25,7 +25,7 @@ Clone this repository by typing this into a terminal:\
 \
 Once the repository has downloaded onto your system, navigate to this folder (On Ubuntu, this folder should be somewhere in your *Home* directory and should be named **GPUSPPM**).\
 \
-Then open a terminal window in this directory.\
+Then open a terminal window in this directory. **Note:** In *Linux Mint* and possibly other graphical Linux distros, you can do this by: **Right-Clicking** inside your file explorer window and selecting **Open in Terminal**.\
 \
 It is time to compile the source code. We need to tell our c++ compiler (**GCC**) what libraries to use in order for this to compile properly. I.e. Type this into the terminal window you opened in the last step:\
 \
