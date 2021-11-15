@@ -1,4 +1,6 @@
 # GPUSPPM
+![alt text](https://github.com/dat-boi-lux/GPUSPPM/blob/main/Screenshot_2021-11-15_19-28-56.png)\
+\
 This is the source code and build instructions for **GPUSPPM** (*Stochastic Progressive Photon Mapping* implemented in **OpenGL** designed to run natively on a **GPU**).\
 \
 This code was originally written by **Toshiya Hachisuka** https://cs.uwaterloo.ca/~thachisu/ some time around 2011 and was originally hosted here: (The website has long been offline, but a version can be found on the Internet Archive here: https://web.archive.org/web/20141216214724/http://bee-www.com/) \
