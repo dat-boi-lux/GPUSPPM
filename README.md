@@ -15,7 +15,7 @@ There are a few dependencies we will need to install in order to make this run. 
 ```sudo apt install freeglut3 freeglut3-dev libglew-dev```\
 ```sudo apt install mesa-utils```\
 \
-If you already have these in your system, you will get a warning, this is fine.\
+If you already have these in your system, you will get a *warning*, this is fine.\
 \
 Once you have successfully installed all of the dependencies, you can now move on to downloading this repository and compiling the source code.\
 \
