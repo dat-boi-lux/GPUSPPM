@@ -7,7 +7,9 @@ This code was originally written by **Toshiya Hachisuka** https://cs.uwaterloo.c
 \
 **NOTE:** I did not write any of this code, I simply edited the source to make it compile on Linux. I am also uploading it to Github to make it accessible to everyone.\
 \
-The source for a **Windows** compile and a **Linux** compile are provided. A prebuilt binary for Windows is also provided (this was compiled by Toshiya Hachisuka).
+The source for a **Windows** compile and a **Linux** compile are provided. A prebuilt binary for Windows is also provided (this was compiled by Toshiya Hachisuka).\
+\
+Be aware that the use of "apt" in regards to downloading and installing packages is a Ubuntu specific command and may be different in whatever Linux distribution you are using. Make sure to check what your package manager is. These steps have been confirmed to work on **Linux Mint 20.2** (which is built on top of **Ubuntu 20.04**, so it should essentially be the same).
 
 # Build Instructions - Linux/Ubuntu:
 It is assumed that you have already installed the appropriate drivers for your GPU. This program will not run if you haven't done this.\
