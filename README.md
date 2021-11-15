@@ -27,7 +27,7 @@ Once the repository has downloaded onto your system, navigate to this folder (On
 \
 Then open a terminal window in this directory.\
 \
-It is time to compile the source code. We need to tell our compiler (**G++**) what libraries to use in order for this to compile properly. I.e. Type this into the terminal window you opened in the last step:\
+It is time to compile the source code. We need to tell our c++ compiler (**GCC**) what libraries to use in order for this to compile properly. I.e. Type this into the terminal window you opened in the last step:\
 \
 ```g++ gpusppmLINUX.cpp -o gpusppm -lGL -lGLU -lglut```\
 \
