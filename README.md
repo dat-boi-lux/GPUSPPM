@@ -3,7 +3,7 @@
 \
 This is the source code and build instructions for **GPUSPPM** (*Stochastic Progressive Photon Mapping* implemented in **OpenGL** designed to run natively on a **GPU**).\
 \
-This code was originally written by **Toshiya Hachisuka** https://cs.uwaterloo.ca/~thachisu/ some time around 2011 and was originally hosted here: (The website has long been offline, but a version can be found on the Internet Archive here: https://web.archive.org/web/20141216214724/http://bee-www.com/) \
+This code was originally written by **Toshiya Hachisuka** https://cs.uwaterloo.ca/~thachisu/ some time around 2011. (The website where the code was originally hosted has long been offline, but a version can be found on the Internet Archive here: https://web.archive.org/web/20141216214724/http://bee-www.com/) \
 \
 **NOTE:** I did not write any of this code, I simply edited the source to make it compile on Linux. I am also uploading it to Github to make it accessible to everyone.\
 \
