@@ -29,6 +29,6 @@ Then open a terminal window in this directory.\
 \
 It is time to compile the source code. We need to tell our compiler (**G++**) what libraries to use in order for this to compile properly. I.e. Type this into the terminal window you opened in the last step:\
 \
-```++ gpusppmLINUX.cpp -o gpusppm -lGL -lGLU -lglut```\
+```g++ gpusppmLINUX.cpp -o gpusppm -lGL -lGLU -lglut```\
 \
 You should now have successfully compiled **GPUSPPM**.
