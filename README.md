@@ -16,8 +16,7 @@ It is assumed that you have already installed the appropriate drivers for your G
 \
 There are a few dependencies we will need to install in order to make this run. **GPUSPPM** requires **OpenGL**, **FreeGLUT**, and **GLEW**. Install them by typing this into a terminal:\
 \
-```sudo apt install freeglut3 freeglut3-dev libglew-dev```\
-```sudo apt install mesa-utils```\
+```sudo apt install freeglut3 freeglut3-dev libglew-dev mesa-utils```\
 \
 If you already have these in your system, you will get a *warning*, this is fine.\
 \
