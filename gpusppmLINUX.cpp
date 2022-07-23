@@ -728,7 +728,7 @@ int main(int argc, char *argv[])
 	glutInitWindowPosition((glutGet(GLUT_SCREEN_WIDTH) - BufferSize) / 2, (glutGet(GLUT_SCREEN_HEIGHT) - BufferSize) / 2);
 	glutInitWindowSize(BufferSize, BufferSize);
 
-	glutInitDisplayMode(GLUT_RGBA | GL_DOUBLE | GLUT_DEPTH);
+	glutInitDisplayMode(GLUT_RGBA | GLUT_SINGLE | GLUT_DEPTH);
 	glutCreateWindow(argv[0]);
 	glutDisplayFunc(display);
 	glutMouseFunc(mouse);
